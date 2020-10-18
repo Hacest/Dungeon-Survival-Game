@@ -1,0 +1,21 @@
+﻿  개인과제.cpp
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(68,27): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(72,27): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(76,27): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(80,27): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(90,25): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(93,25): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(96,25): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(99,25): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(102,25): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(106,24): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(110,25): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(114,25): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(117,35): warning C4305: '인수': 'double'에서 'const Second'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(144,1): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(150,1): warning C4305: '인수': 'double'에서 'ObjectScale'(으)로 잘립니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(334,64): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(322): warning C4715: '<lambda_f502eb6972ca1fa3720b0e514b460a16>::operator()': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(304): warning C4715: '<lambda_59c9c07791b5a63e3a050335101c6d11>::operator()': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\Haesoo Hwang\source\repos\개인과제\개인과제.cpp(265): warning C4715: '<lambda_f72f129fb7584ac17635862170fc5f9d>::operator()': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  개인과제.vcxproj -> C:\Users\Haesoo Hwang\source\repos\개인과제\Debug\개인과제.exe
